@@ -1,9 +1,7 @@
 ## Hi there, I'm Timothy, developer from Russia <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siximapala&size_weight=0.5&count_weight=0.5)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/b6mb)](https://leetcode.com/b6mb)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siximapala&size_weight=0.5&count_weight=0.5) &nbsp;&nbsp; [![Leetcode Stats]( https://leetcard.jacoblin.cool/b6mb )](https://leetcode.com/b6mb )
 
 ## My fave instruments
 <p align="left">
