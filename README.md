@@ -6,7 +6,7 @@
 ## My fave instruments
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,typescript,postgres,postman,vscode,ubuntu,git,docker,nextjs,react,fastapi,django" />
+    <img src="https://skillicons.dev/icons?i=go,python,typescript,nextjs,postgres,postman,vscode,ubuntu,git,docker,react,fastapi,django" />
   </a>
 </p>
 
